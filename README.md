@@ -3,6 +3,8 @@
 2. install flask from https://flask.palletsprojects.com/en/1.1.x/installation/
 3. go to dir and run. 'FLASK_APP=app.py flask run'
 
+
+
 ![](ss.png)
 
 # GitHub-Repo-Stars
