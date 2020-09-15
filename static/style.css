@@ -30,7 +30,7 @@
   background: #9faab7;
 }
 .option-input:checked {
-  background: #40e0d0;
+  background: #0a1413;
 }
 .option-input:checked::before {
   height: 40px;
@@ -80,7 +80,7 @@ button {
     color: #fff;
     cursor: pointer;
     box-shadow: 3px 7px 7px 4px rgba(237,80,83,.5), 1px 0 0 rgba(0,0,0,.15);
-    background: #ed5053;
+    background: #b1a6a6;
     padding: 20px;
     flex-grow: 1;
     width: 100px;
@@ -102,7 +102,7 @@ body {
   font-size: 1.6rem;
   line-height: 1.6;
   color: #20262e;
-  background-color: #28b1de;
+  background-color: #649b59;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
