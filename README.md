@@ -8,6 +8,6 @@ Link: http://rgrupesh.pythonanywhere.com/
 
 
 
-![](ss.png)
+![Screenshot from 2022-11-24 18-34-21](https://user-images.githubusercontent.com/54068868/203788650-232e5399-4ff8-4e70-a4ad-926ea1e74c02.png)
 
 # GitHub-Repo-Stars
